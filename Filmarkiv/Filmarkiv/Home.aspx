@@ -36,6 +36,10 @@
         <asp:Label ID="lbl_awards" runat="server" Text=""></asp:Label><br />
         <asp:Label ID="lbl_metascore" runat="server" Text=""></asp:Label><br />
         <asp:Label ID="lbl_rating" runat="server" Text=""></asp:Label>
+        <br />
+        <br />
+        <asp:Label ID="Youtube" runat="server" Text="Youtube trailer search" Font-Size="Large"></asp:Label><br />
+        <asp:Label ID="lbl_youtubeSrc" runat="server" Text=""></asp:Label>
     </div>
     </form>
 </body>

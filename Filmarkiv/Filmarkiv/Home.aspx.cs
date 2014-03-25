@@ -7,6 +7,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Xml;
+using Google.Apis.Services;
+using Google.Apis.YouTube.v3;
+using Google.Apis.YouTube.v3.Data;
 
 namespace Filmarkiv
 {
@@ -51,7 +54,25 @@ namespace Filmarkiv
                 lbl_rating.Text = "IMDB Rating: " + elem.Attributes["imdbRating"].Value;
                 
             }
-            
+
+            YouTubeService service = new YouTubeService(new BaseClientService.Initializer()
+            {
+                ApiKey = "AIzaSyAdRHkfSejxqiVQ3LhTayzCnm0qVu8Phz4"
+            });
+            Google.Apis.YouTube.v3.SearchResource.ListRequest listRequest = service.Search.List("snippet");
+            listRequest.Q = txt_search.Text + "trailer";
+            listRequest.MaxResults = 10;
+
+            SearchListResponse SearchResponse = listRequest.Execute();
+            List<string> videos = new List<string>();
+            foreach(var searchResult in SearchResponse.Items)
+            {
+                if(searchResult.Id.Kind == "youtube#video")
+                {
+                    videos.Add(searchResult.Snippet.Title + " " + searchResult.Id.VideoId);
+                }
+            }
+            lbl_youtubeSrc.Text = videos[0];
         }
 
         

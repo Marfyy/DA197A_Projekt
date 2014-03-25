@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 D:\Program\Git\Gitmapp\Filmarkiv\Filmarkiv\bin\Filmarkiv.dll
 D:\Program\Git\Gitmapp\Filmarkiv\Filmarkiv\bin\Filmarkiv.pdb
 D:\Program\Git\Gitmapp\Filmarkiv\Filmarkiv\bin\Antlr3.Runtime.dll
@@ -66,4 +65,37 @@ C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\obj\Debug\Filmarkiv.csprojResolveAssemblyReference.cache
 C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\obj\Debug\Filmarkiv.dll
 C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\obj\Debug\Filmarkiv.pdb
->>>>>>> 8134c95ea8dfc569640f4b7f8b59d24388aa5021
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Filmarkiv.dll.config
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Auth.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Auth.PlatformServices.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Core.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.PlatformServices.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.YouTube.v3.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\log4net.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Microsoft.Threading.Tasks.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Newtonsoft.Json.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\System.Net.Http.Extensions.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\System.Net.Http.Primitives.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Zlib.Portable.dll
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Auth.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Auth.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Auth.PlatformServices.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Core.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.Core.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.PlatformServices.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.PlatformServices.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.YouTube.v3.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Google.Apis.YouTube.v3.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\log4net.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Microsoft.Threading.Tasks.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Newtonsoft.Json.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\System.Net.Http.Extensions.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\System.Net.Http.Primitives.xml
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\bin\Zlib.Portable.pdb
+C:\git\DA197A_Projekt\Filmarkiv\Filmarkiv\obj\Debug\Filmarkiv.csproj.App.config
