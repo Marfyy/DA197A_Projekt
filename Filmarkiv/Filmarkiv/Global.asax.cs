@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
+using System.Web.Http;
 using Filmarkiv;
 
 namespace Filmarkiv
@@ -17,7 +18,12 @@ namespace Filmarkiv
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterOpenAuth();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
-        }
+            RouteTable.Routes.MapHttpRoute(
+                name: "DefaultApi",
+                routeTemplate: "api/{controller}/{id}",
+                defaults: new { id = System.Web.Http.RouteParameter.Optional }
+                );
+            }
 
         void Application_End(object sender, EventArgs e)
         {
